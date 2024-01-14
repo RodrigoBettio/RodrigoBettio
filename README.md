@@ -2,6 +2,7 @@
 <img width ="100%" src="https://github.com/RodrigoBettio/RodrigoBettio/assets/125048128/658475ac-dd62-41af-97e7-2de1408febdc"
  />
 </div>
+
 <div align="center">
   <a href="https://github.com/RodrigoBettio">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RodrigoBettio&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
@@ -14,3 +15,5 @@
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RodrigoBettio&theme=github-dark-dimmed&custom_title=RodrigoBettio%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
