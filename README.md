@@ -19,7 +19,7 @@
 
 <div align="center"> <!-- Cobrinha -->
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/RodrigoBettio/RodrigoBettio/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
@@ -66,8 +66,8 @@
 <div align="center">  <!-- Stats do Git-->
   <a href="https://github.com/RodrigoBettio">
    <a href="https://streak-stats.demolab.com?user=Rodrigo%20Bettio&theme=neon-dark&hide_border=true&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RodrigoBettio&count_private=true&include_all_commits=true&show_icons=trueline_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBettio&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoBettio&count_private=true&include_all_commits=true&show_icons=trueline_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBettio&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
     
   </a>
 </div>
