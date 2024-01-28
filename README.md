@@ -8,13 +8,13 @@
 <p align="center"> <!-- Hello World, I'm Rodrigo Bettio  -- Font = Rubik Burned-->
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20World,%20I'm...;Rodrigo%20Bettio&font=Honk&center=true&width=440&height=45&color=FFFFFFFF&vCenter=true&pause=1000&size=50" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20World,%20I'm...;Rodrigo%20Bettio&font=Honk&center=true&width=480&height=45&color=FFFFFFFF&vCenter=true&pause=1000&size=50" /></a>
 </p>
 
 <p align="center"> <!-- I dream of working with Machine Learning. In the meantime, I'm still a dev-->
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines= Dream%20of%20Working%20With;Machine%20Learning;In%20The%20Meantime,%20I'm%20still%20a%20Dev;Always%20learning%20new%20things&font=Honk&center=true&width=440&height=45&color=FFFFFFFF&vCenter=true&pause=1000&size=35" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines= Dream%20of%20Working%20With;+Machine%20Learning;In%20The%20Meantime,%20I'm%20still%20a%20Dev;Always%20learning%20new%20things&font=Honk&center=true&width=480&height=45&color=FFFFFFFF&vCenter=true&pause=1000&size=35" /></a>
 </p>
 
 <div align="center"> <!-- Cobrinha -->
