@@ -26,7 +26,7 @@
 
 <details open> <!-- Sobre Mim -->
   <summary><h2 style="text-align: left;">👨‍💻 About Me </h2></summary>
-  Meu nome é Rodrigo Bettio, tenho 18 anos e estudo informática no IFSP - Instituto Federal de São Paulo desde 2022. Uso o GitHub para conglomerar meus projetos tanto pessoais quanto do próprio IFSP. Gostaria de trabalhar com Machine Learning e estudar cibersecurity/back-end. 
+  Meu nome é Rodrigo Bettio, tenho 18 anos e estudo informática no Instituto Federal de São Paulo (IFSP) desde 2022. Uso o GitHub para conglomerar meus projetos tanto pessoais quanto do próprio IFSP. Gostaria de trabalhar com Machine Learning e estudar cibersecurity e back-end. 
 <div align="center">
     <a href = "mailto:rodrigo.bettio2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/rodrigobettio" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
@@ -40,11 +40,11 @@
   <details open> <!-- Agora -->
     <summary><h3> Estudando Agora </h3></summary>
    <p>
-      <img align="center" alt="Java"height="40" width="70" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
-      <img align="center" alt="HTML"height="40" width="70" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"
-      <img align="center" alt="CSS" height="40" width="70" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-      <img align="center" alt="JavaScript"height="40" width="90" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-      <img align="center" alt="SQL"height="40" width="70" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+      <img align="center" alt="Java"height="50" width="90" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
+      <img align="center" alt="HTML"height="50" width="90" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"
+      <img align="center" alt="CSS" height="50" width="90" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+      <img align="center" alt="JavaScript"height="50" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+      <img align="center" alt="SQL"height="50" width="90" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
  
    </p>
   </details>
@@ -52,8 +52,8 @@
   <details open> <!-- Vou aprender -->
     <summary><h3> Ainda vou aprender </h3></summary>
    <p> 
-      <img alt="Python" height="40" width="80"src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-      <img alt="Node.js" height="40" width="80"src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+      <img alt="Python" height="50" width="100"src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+      <img alt="Node.js" height="50" width="100"src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
 
    </p>
   </details>
@@ -78,18 +78,6 @@
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RodrigoBettio&theme=react-dark&custom_title=Rodrigo%20Bettio%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 </details>
 
-<details> <!-- Projetos -->
-  <summary><h2>📘 Current Projects</h2></summary>
-  <p align="left">
-
-</details>
-
-
-<details open> <!-- Linguagens -->
-  <summary><h2>📘 Languages Used</h2></summary>
-  <p align="left">
-
-</details>
 
 ### Contador de Acessos
 <img src="https://profile-counter.glitch.me/RodrigoBettio/count.svg" />
