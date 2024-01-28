@@ -40,11 +40,11 @@
   <details open> <!-- Agora -->
     <summary><h3> Estudando Agora </h3></summary>
    <p>
-      <img align="center" alt="Java"height="50" width="90" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
-      <img align="center" alt="HTML"height="50" width="90" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"
-      <img align="center" alt="CSS" height="50" width="90" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-      <img align="center" alt="JavaScript"height="50" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-      <img align="center" alt="SQL"height="50" width="90" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+      <img align="center" alt="Java"height="45" width="90" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
+      <img align="center" alt="HTML"height="45" width="90" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"
+      <img align="center" alt="CSS" height="45" width="90" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+      <img align="center" alt="JavaScript"height="45" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+      <img align="center" alt="SQL"height="45" width="90" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
  
    </p>
   </details>
@@ -52,8 +52,8 @@
   <details open> <!-- Vou aprender -->
     <summary><h3> Ainda vou aprender </h3></summary>
    <p> 
-      <img alt="Python" height="50" width="100"src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-      <img alt="Node.js" height="50" width="100"src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+      <img alt="Python" height="45" width="100"src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+      <img alt="Node.js" height="45" width="100"src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
 
    </p>
   </details>
