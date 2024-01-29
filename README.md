@@ -18,8 +18,8 @@
 <div align="center"> <!-- Cobrinha -->
 
   <!--![Snake animation](https://github.com/RodrigoBettio/RodrigoBettio/blob/output/github-contribution-grid-snake.svg) -->
-  <img height="180cm" src="https://streak-stats.demolab.com?user=Rodrigo%20Bettio&theme=neon-dark&hide_border=true&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D"/>
-
+  <img height="180cm" src="https://streak-stats.demolab.com?user=Rodrigo%20Bettio&theme=midnight-purple&hide_border=true&locale=pt_BR&date_format=M j[, Y]"/>
+  <!-- Mais temas: https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes.md-->
   
 </div>
 
