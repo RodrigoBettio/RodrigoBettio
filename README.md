@@ -40,10 +40,10 @@
   <details open> <!-- Agora -->
     <summary><h3> Estudando Agora </h3></summary>
    <p>
-      <img align="center" alt="Java"height="45" width="90" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
-      <img align="center" alt="HTML"height="45" width="90" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"
-      <img align="center" alt="CSS" height="45" width="90" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-      <img align="center" alt="JavaScript"height="45" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+      <img align="center" alt="Java"height="80 width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+      <img align="center" alt="HTML"height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+      <img align="center" alt="CSS" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+      <img align="center" alt="JavaScript"height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
       <img align="center" alt="SQL"height="45" width="90" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
  
    </p>
@@ -52,8 +52,8 @@
   <details open> <!-- Vou aprender -->
     <summary><h3> Ainda vou aprender </h3></summary>
    <p> 
-      <img alt="Python" height="45" width="100"src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-      <img alt="Node.js" height="45" width="100"src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+      <img alt="Python" height="80" width="100"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+      <img alt="Node.js" height="120" width="100"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
 
    </p>
   </details>
@@ -65,9 +65,8 @@
   
 <div align="center">  <!-- Stats do Git-->
   <a href="https://github.com/RodrigoBettio">
-   <a href="https://streak-stats.demolab.com?user=RodrigoBettio&theme=neon-dark&hide_border=true&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D">
-    <img align ="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoBettio&count_private=true&include_all_commits=true&show_icons=trueline_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
-    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBettio&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=RodrigoBettio&count_private=true&include_all_commits=true&show_icons=trueline_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBettio&layout=donut&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
     
   </a>
 </div>
