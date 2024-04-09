@@ -34,7 +34,7 @@
 </details>
 
 <details open> <!-- Studies -->
-  <summary><h2>🛠️🤓Studies </h2></summary>
+  <summary><h2>🤓 Studies </h2></summary>
   <p align="left">
    
   <details open> <!-- Agora -->
