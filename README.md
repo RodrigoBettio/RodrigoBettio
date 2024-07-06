@@ -40,21 +40,17 @@
   <details open> <!-- Agora -->
     <summary><h3> Estudando Agora </h3></summary>
    <p>
-      <img align="center" alt="Java"height="80 width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
       <img align="center" alt="HTML"height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
       <img align="center" alt="CSS" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-      <img align="center" alt="JavaScript"height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="SQL"height="45" width="90" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
- 
+      <img align ="center" alt="Python" height="80" width="100"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
    </p>
   </details>
 
   <details open> <!-- Vou aprender -->
     <summary><h3> Ainda vou aprender </h3></summary>
    <p> 
-      <img alt="Python" height="80" width="100"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
       <img alt="Node.js" height="120" width="100"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
-
+      <img alt="Java"height="120 width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
    </p>
   </details>
   </p>
