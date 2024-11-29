@@ -1,30 +1,22 @@
-<!-- <div align="center">
-<Imagem de Hello World
- <img width ="100%" src="https://github.com/RodrigoBettio/RodrigoBettio/assets/125048128/658475ac-dd62-41af-97e7-2de1408febdc"
- />
-</div>
--->
 
-<p align="center"> <!-- Hello World, I'm Rodrigo Bettio  -- Font = Rubik Burned-->
-<img src="https://readme-typing-svg.demolab.com/?lines=Hello%20World,%20I'm...;Rodrigo%20Bettio&font=Honk&center=true&width=480&height=45&color=FFFFFFFF&vCenter=true&pause=1000&size=50" />
-</p>
+<img src="https://user-images.githubusercontent.com/98968823/176971159-713d8449-4d4b-4ede-964b-bab1eb7be514.png" min-width="340px" max-width="300px" width="300px" align="right">
 
-<p align="center"> <!-- I dream of working with Machine Learning. In the meantime, I'm still a dev-->
-<img src="https://readme-typing-svg.demolab.com/?lines= Dream%20of%20Working%20With;+Machine%20Learning;In%20The%20Meantime,%20I'm%20still%20a%20Dev;Always%20learning%20new%20things&font=Honk&center=true&width=480&height=45&color=FFFFFFFF&vCenter=true&pause=1000&size=35" />
-</p>
-
-<div align="center"> <!-- Cobrinha -->
-
-  <!--![Snake animation](https://github.com/RodrigoBettio/RodrigoBettio/blob/output/github-contribution-grid-snake.svg) -->
-  <img height="180cm" src="https://streak-stats.demolab.com?user=Rodrigo%20Bettio&exclude_days=Sat&theme=midnight-purple&hide_border=true&locale=pt_BR&date_format=M j[, Y]"/>
-  <!-- Mais temas: https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes.md-->
-  
-</div>
-
-
+```dart
+public static void main(String[] args) {
+        Map<String, Object> rodrigoBettio = Map.of(
+            "age", 19,
+            "country", "Brazil",
+            "city", "São Paulo, SP",
+            "languages", List.of("Portuguese", "English"),
+            "technologyInterests", List.of( "Programming","Machine Learning", "Cybersecurity"),
+            "personalHobbies", List.of("Economics", "Stock Market Investments", "Psychology", "Sports")
+        );
+    }
+```
 <details open> <!-- Sobre Mim -->
   <summary><h2 style="text-align: left;">👨‍💻 About Me </h2></summary>
-  Meu nome é Rodrigo Bettio, tenho 18 anos e estudo informática no Instituto Federal de São Paulo (IFSP) desde 2022. Uso o GitHub para conglomerar meus projetos tanto pessoais quanto do próprio IFSP. Gostaria de trabalhar com Machine Learning e estudar cibersecurity e back-end. 
+  Meu nome é Rodrigo Bettio, tenho 19 anos e estudo informática no Instituto Federal de São Paulo (IFSP) desde 2022. Uso o GitHub para conglomerar meus projetos tanto pessoais quanto do próprio IFSP. Gostaria de trabalhar com Machine Learning e participar de algo que revolucione o mercado.
+ 
 <div align="center">
     <a href = "mailto:rodrigo.bettio2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/rodrigobettio" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
@@ -33,42 +25,50 @@
 
 <details open> <!-- Studies -->
   <summary><h2>🤓 Studies </h2></summary>
-  <p align="left">
-   
-  <details open> <!-- Agora -->
-    <summary><h3> Estudando Agora </h3></summary>
-   <p>
-      <img align="center" alt="HTML"height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-      <img align="center" alt="CSS" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-      <img align ="center" alt="Python" height="80" width="100"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-   </p>
+<p>Clique na linguagem e veja os principais projetos que fiz usando ela:</p>
+    <div style="display: inline_block">
+      <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+      <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+      <img align="center" alt="CSharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+      <img align="center" alt="JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+      <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+      <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    </div>
+    <div style="display: inline_block"><br>
+      <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" >
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" >
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" >
+    </div>
+    <div style="display: inline_block"><br>
+      <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+      <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white">
+    </div>
   </details>
-
-  <details open> <!-- Vou aprender -->
-    <summary><h3> Ainda vou aprender </h3></summary>
-   <p> 
-      <img alt="Node.js" height="120" width="100"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
-      <img alt="Java"height="120 width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-   </p>
-  </details>
-  </p>
 </details>
+
+<details> <!-- Projects -->
+  <summary><h2>🚀 Projects</h2></summary>
+  <p>Confira alguns dos projetos em que estou trabalhando! 👨‍💻</p>
+  <ul>
+    <li><strong>Projeto 1</strong> - Projeto 1. 🚀 <a href="link-do-projeto">Veja mais</a></li>
+    <li><strong>Projeto 2</strong> - Projeto 2. 🌟 <a href="link-do-projeto">Veja mais</a></li>
+    <li><strong>Projeto 3</strong> - Projeto 3. 🔥 <a href="link-do-projeto">Veja mais</a></li>
+  </ul>
+</details>
+
 
 <details> <!-- Stats -->
   <summary><h2>📊 Stats and Activity</h2></summary>
   
-<div align="center">  <!-- Stats do Git-->
-  <a href="https://github.com/RodrigoBettio">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=RodrigoBettio&count_private=true&include_all_commits=true&show_icons=trueline_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBettio&layout=donut&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
-    
-  </a>
-</div>
+  <div align="center">  <!-- Stats do Git-->
+       <a href="https://github.com/RodrigoBettio">
+         <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=RodrigoBettio&count_private=true&include_all_commits=true&show_icons=trueline_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+         <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBettio&layout=donut&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+       </a>
+  </div>
 
  <!--Gráfico de Atividades -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RodrigoBettio&theme=merko&custom_title=Rodrigo%20Bettio%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RodrigoBettio&theme=react-dark&custom_title=Rodrigo%20Bettio%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 </details>
 
 
