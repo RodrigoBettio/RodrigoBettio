@@ -13,6 +13,7 @@ public static void main(String[] args) {
         );
     }
 ```
+ <img height="180cm" src="https://streak-stats.demolab.com?user=Rodrigo%20Bettio&exclude_days=Sat&theme=midnight-purple&hide_border=true&locale=pt_BR&date_format=M j[, Y]"/>
 <details open> <!-- Sobre Mim -->
   <summary><h2 style="text-align: left;">👨‍💻 About Me </h2></summary>
   Meu nome é Rodrigo Bettio, tenho 19 anos e estudo informática no Instituto Federal de São Paulo (IFSP) desde 2022. Uso o GitHub para conglomerar meus projetos tanto pessoais quanto do próprio IFSP. Gostaria de trabalhar com Machine Learning e participar de algo que revolucione o mercado.
@@ -27,8 +28,12 @@ public static void main(String[] args) {
   <summary><h2>🤓 Studies </h2></summary>
 <p>Clique na linguagem e veja os principais projetos que fiz usando ela:</p>
     <div style="display: inline_block">
+      <a href="https://github.com/orgs/Projetos-Java-Rodrigo/repositories" target="_blank">
       <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+      </a>  
+      <a href="https://github.com/orgs/Projetos-Python/repositories" target="_blank">
       <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+      </a>
       <img align="center" alt="CSharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
       <img align="center" alt="JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
       <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
