@@ -13,7 +13,7 @@ public static void main(String[] args) {
         );
     }
 ```
- <img height="180cm" src="https://streak-stats.demolab.com?user=Rodrigo%20Bettio&exclude_days=Sat&theme=midnight-purple&hide_border=true&locale=pt_BR&date_format=M j[, Y]"/>
+ <img height="180cm" width="900cm" src="https://streak-stats.demolab.com?user=Rodrigo%20Bettio&exclude_days=Sat&theme=midnight-purple&hide_border=true&locale=pt_BR&date_format=M j[, Y]"/>
 <details open> <!-- Sobre Mim -->
   <summary><h2 style="text-align: left;">👨‍💻 About Me </h2></summary>
   Meu nome é Rodrigo Bettio, tenho 19 anos e estudo informática no Instituto Federal de São Paulo (IFSP) desde 2022. Uso o GitHub para conglomerar meus projetos tanto pessoais quanto do próprio IFSP. Gostaria de trabalhar com Machine Learning e participar de algo que revolucione o mercado.
