@@ -52,10 +52,12 @@ Gostaria de trabalhar com Machine Learning e participar de algo que revolucione 
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
   <img alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
+  <img alt="Tailwind CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" />
   <img alt="Next.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" />
   <img alt="Nest.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" title="Nest.js" />
-  <img alt=".NET" height="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" />
-  <img alt="Django" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img alt=".NET" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".NET" />
+  <img alt="Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" />
+</div>
 
 </div>
 
@@ -65,6 +67,8 @@ Gostaria de trabalhar com Machine Learning e participar de algo que revolucione 
   <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img alt="Oracle" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img alt="Pandas" height="40" src="https://pandas.pydata.org/static/img/pandas_mark.svg" />
+  <img alt="TensorFlow" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+
 </div>
 
 ### ☁️ Cloud & Deploy
