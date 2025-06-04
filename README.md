@@ -33,45 +33,70 @@ Gostaria de trabalhar com Machine Learning e participar de algo que revolucione 
 </details>
 
 ---
+## 💻 Tecnologias
 
-## 🛠️ Tecnologias
+### 🧠 Linguagens
 
-### 💻 Linguagens e Frameworks
-<div style="display: inline_block">
-      <a href="https://github.com/orgs/Projetos-Java-Rodrigo/repositories" target="_blank">
-      <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-      </a>  
-      <a href="https://github.com/orgs/Projetos-Python/repositories" target="_blank">
-      <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-      </a>
-      <img align="center" alt="CSharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-      <img align="center" alt="JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-      <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-      <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    </div>
-    <div style="display: inline_block"><br>
-      <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" >
-      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" >
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" >
-    </div>
-    <div style="display: inline_block"><br>
-      <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-      <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white">
-    </div>
+<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
+  <a href="https://github.com/orgs/Projetos-Java-Rodrigo/repositories" target="_blank" title="Java">
+    <img alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  </a>
+  <a href="https://github.com/orgs/Projetos-Python/repositories" target="_blank" title="Python">
+    <img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  </a>
+  <img alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
+  <img alt="C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" />
+</div>
 
----
+### ⚙️ Frameworks & Bibliotecas
 
-## 🚀 Projetos em Destaque
+<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
+  <img alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
+  <img alt="Next.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" />
+  <img alt="Nest.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" title="Nest.js" />
+  <img alt=".NET" height="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" />
+  <img alt="Django" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+
+</div>
+
+### 💾 Bancos de Dados & Data Science
+
+<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
+  <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="Oracle" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  <img alt="Pandas" height="40" src="https://pandas.pydata.org/static/img/pandas_mark.svg" />
+</div>
+
+### ☁️ Cloud & Deploy
+<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
+  <img alt="AWS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  <img alt="Railway" height="40" src="https://railway.app/brand/logo-light.svg" />
+  <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="DigitalOcean" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" />
+</div>
+
+### 🛠️ Ferramentas & Metodologias
+<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
+  <img alt="Trello" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+  <img alt="Overleaf" height="40" width="100" src="https://camo.githubusercontent.com/cec384d00c28c48b2672c89e4e5b4634513a26965535e1fe454b4759635562e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f7665726c6561662d3437413134313f7374796c653d666f722d7468652d6261646765266c6f676f3d4f7665726c656166266c6f676f436f6c6f723d7768697465" />
+  <img alt="Scrum" height="40" width="100"  src="https://img.shields.io/static/v1?label=&message=Scrum&color=FCA121&style=for-the-badge&logo=scrumalliance&logoColor=white" />
+  <img alt="Postman" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+
+</div>
+
+
+
+## 🔍 Projetos em Destaque
 
 <ul>
-    <li><strong>Projeto 1</strong> - Projeto 1. 🚀 <a href="link-do-projeto">Veja mais</a></li>
+    <li><strong>Ping Pong</strong> 🚀 <a href="https://rodrigobettio.github.io/PingPongGame/">Veja mais</a></li>
     <li><strong>Projeto 2</strong> - Projeto 2. 🌟 <a href="link-do-projeto">Veja mais</a></li>
     <li><strong>Projeto 3</strong> - Projeto 3. 🔥 <a href="link-do-projeto">Veja mais</a></li>
 </ul>
 
 ---
 
-## 📈 Gráfico de Atividades
+## ⏱️ Gráfico de Atividades
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RodrigoBettio&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
