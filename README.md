@@ -16,7 +16,7 @@ Map<String, Object> rodrigoBettio = Map.of(
 ```
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=RodrigoBettio&count_private=true&include_all_commits=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0d1117"/>
-  <img height="180cm" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBettio&layout=donut&width=400&title_color=7A7ADB&text_color=D3D3D3&bg_color=0d1117"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBettio&layout=donut&width=400&title_color=7A7ADB&text_color=D3D3D3&bg_color=0d1117"/>
 </div>
 
 ---
